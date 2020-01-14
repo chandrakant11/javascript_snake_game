@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+}
+
+.field {
+	display: inline-block;
+	margin-top: 2.5rem;
+	box-shadow: 0 0 2rem 0.25rem rgba(0,0,0,0.2);
+}
+
+#ground {
+    background-color: #dec87d;
+	float: left;
+}
+
+#borad {
+    background-color: #9a812c;
+	float: left;
+}
